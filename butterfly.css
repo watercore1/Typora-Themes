@@ -1,5 +1,5 @@
-@import './source//butterfly/dy/iconfont.min.css';
-@import './source/butterfly/zj/fonts.css';
+@import './resource//butterfly/dy/iconfont.min.css';
+@import './resource/butterfly/zj/fonts.css';
 :root {
     /* dy color */
     --select-text-bg-color: #ffafa3; /* 文本选中背景色（粉红） */
